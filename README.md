@@ -92,4 +92,8 @@ python demo/run_demo.py
 ## Team
 
 **The Iterators** — Ossome Hacks 3.0, Claw & Shield Track  
+<<<<<<< HEAD
 Bhumika Singh | Kaveri Patle | Megan Sheel | Swastik Sharma
+=======
+Bhumika Singh | Kaveri Patle | Megan Sheel | Swastik Sharma
+>>>>>>> d590802c54201d3d69246c6d0d2e1596d525c6db
