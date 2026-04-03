@@ -1,0 +1,11 @@
+{
+  "max_trade_value": 1000,
+  "allowed_tickers": ["AAPL", "GOOGL", "MSFT"],
+  "allow_short_selling": false,
+  "max_daily_trades": 10,
+  "trading_hours_start": "09:30",
+  "trading_hours_end": "16:00",
+  "allowed_actions": ["buy", "sell"],
+  "allowed_file_paths": ["data/portfolio"],
+  "max_quantity": 10
+}

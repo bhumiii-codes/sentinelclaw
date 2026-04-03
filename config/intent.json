@@ -1,0 +1,7 @@
+{
+  "goal": "conservative_growth",
+  "description": "Monitor tech stocks and make conservative trades under $1000 during market hours only",
+  "scope": ["AAPL", "GOOGL", "MSFT"],
+  "risk_level": "low",
+  "time_window": "market_hours"
+}
